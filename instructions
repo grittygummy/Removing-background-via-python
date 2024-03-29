@@ -1,0 +1,2 @@
+For this you'll need to create your account on the RemoveBg site. Head to your accounts settings and look for API key, create new Key and then use that key in the place of api_key variable.
+Make sure that the image you want to target for removing background is in the same directory as your python file.
